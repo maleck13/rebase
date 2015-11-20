@@ -1,3 +1,3 @@
 function (){
-  var thisisOnlyExample  = "this awsome code rules";
+  var thisisOnlyExample  = "expand on this awsome code rules";
 }
