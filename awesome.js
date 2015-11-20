@@ -1,3 +1,3 @@
 function (){
-  var thisisOnlyExample  = "this awsome Kode riles";
+  var thisisOnlyExample  = "this awesome Kode riles";
 }
